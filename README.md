@@ -1,3 +1,5 @@
+This Project is Assigned as a Project for Introduction to programming Module in Semester 1 year 1.
+
 The project is created using c++ programming language. It is a simple version of the whole bank system.
 It consists of all the systems in a bank namely, counter, loan, goldpawwning, and atm system.
 An admin Portal is also included to manage the system.
